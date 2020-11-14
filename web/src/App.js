@@ -7,7 +7,7 @@ function App() {
         <div>
         <p className="name">Are W. Sandvik,<br/>Oslo, Norge</p>
         <p>
-          Jeg er en innholdsdesigner og teknolog som jobber med kommunikasjon, designprosesser og webutvikling.
+          Jeg er en innholdsdesigner og teknolog som jobber med designprosesser, historiefortelling og webutvikling.
         </p>
         <p>
           For tiden er jeg fagleder for innhold i         <a
