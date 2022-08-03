@@ -7,10 +7,10 @@ function App() {
         <div>
         <p className="name">Are W. Sandvik,<br/>Oslo, Norge</p>
         <p>
-          I'm a Product Manager with experience in Front End Development, and UX, Service, and Content Design.
+          I'm a Product Manager with experience in Frontend Development, and UX, Service, and Content Design.
         </p>
         <p>
-          At the moment I'm the Product Manager at a Process Visualisation Startup in Norway called         <a
+          At the moment I'm the Product Manager at the Norwegian startup        <a
           className="App-link"
           href="https://shiftx.com"
           rel="noopener noreferrer"
@@ -18,24 +18,31 @@ function App() {
           ShiftX.
         </a>
         </p>
-        <p>Jeg skriver og mener om teknologi og samfunn, og samler det <a
+        <p>I care about creating technology that serves both the user and the planet, and that in sum creates a better world. 
+          
+          You can find me on <a
           className="App-link"
-          href="https://medium.com/@are.w.sandvik"
+          href="https://www.linkedin.com/in/aresan/"
           rel="noopener noreferrer"
         >
-          på  Medium.</a> Ellers finner du meg <a
+          LinkedIn,</a> on <a
           className="App-link"
-          href="https://medium.com/@are.w.sandvik"
-          rel="noopener noreferrer"> på  Github,</a> tidvis <a
+          href="https://github.com/arews/portfolio"
+          rel="noopener noreferrer"> Github,
+          
+          
+          </a> occasionally on <a
           className="App-link"
           href="https://twitter.com/AreSandvik"
           rel="noopener noreferrer"
-        > på Twitter,</a> og <a
+        > Twitter,</a> (mostly as a reader) and on <a
           className="App-link"
-          href="https://www.netlife.com/folka/are-w-sandvik"
+          href="https://are-w-sandvik.medium.com/"
           rel="noopener noreferrer"
-        > hos Netlife.
+        > Medium.
         </a> 
+
+        
         </p>
         </div>
       </header>
