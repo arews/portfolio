@@ -5,9 +5,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div>
-        <p className="name">Are W. Sandvik,<br/>Oslo, Norge</p>
+        <p className="name">Are W. Sandvik,<br/>Oslo, Norway</p>
         <p>
-          I'm a Product Manager with experience in Frontend Development, and UX, Service, and Content Design.
+          I'm a Product Manager with experience in Frontend Dev, and UX, Service, and Content Design.
         </p>
         <p>
           At the moment I'm the Product Manager at the Norwegian startup        <a
@@ -18,31 +18,31 @@ function App() {
           ShiftX.
         </a>
         </p>
-        <p>I care about creating technology that serves both the user and the planet, and that in sum creates a better world. 
-          
+        <p>I care about creating technology that serves both the user and the planet.<br/>
           You can find me on <a
           className="App-link"
           href="https://www.linkedin.com/in/aresan/"
           rel="noopener noreferrer"
-        >
-          LinkedIn,</a> on <a
+        > LinkedIn,</a> on <a
           className="App-link"
           href="https://github.com/arews/portfolio"
           rel="noopener noreferrer"> Github,
-          
-          
           </a> occasionally on <a
           className="App-link"
           href="https://twitter.com/AreSandvik"
           rel="noopener noreferrer"
-        > Twitter,</a> (mostly as a reader) and on <a
+        > Twitter,</a> on <a
           className="App-link"
           href="https://are-w-sandvik.medium.com/"
           rel="noopener noreferrer"
-        > Medium.
+        > Medium,
         </a> 
-
-        
+          and as an active participant in the Norwegian community for Product Managers, <a
+          className="App-link"
+          href="https://produktleder.no"
+          rel="noopener noreferrer"
+        > Produktleder.no,
+        </a> 
         </p>
         </div>
       </header>
