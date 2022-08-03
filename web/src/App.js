@@ -7,15 +7,15 @@ function App() {
         <div>
         <p className="name">Are W. Sandvik,<br/>Oslo, Norge</p>
         <p>
-          Jeg er en innholdsdesigner og teknolog som jobber med designprosesser, historiefortelling og webutvikling.
+          I'm a Product Manager with experience in Front End Development, and UX, Service, and Content Design.
         </p>
         <p>
-          For tiden er jeg fagleder for innhold i         <a
+          At the moment I'm the Product Manager at a Process Visualisation Startup in Norway called         <a
           className="App-link"
-          href="https://www.netlife.com"
+          href="https://shiftx.com"
           rel="noopener noreferrer"
         >
-          Netlife.
+          ShiftX.
         </a>
         </p>
         <p>Jeg skriver og mener om teknologi og samfunn, og samler det <a
