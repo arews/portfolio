@@ -10,7 +10,7 @@ function App() {
           I'm a Product Manager with experience in Frontend Dev, and UX, Service, and Content Design.
         </p>
         <p>
-          At the moment I'm the Product Manager at the Norwegian startup        <a
+          I'm currently Product Manager at the Norwegian startup        <a
           className="App-link"
           href="https://shiftx.com"
           rel="noopener noreferrer"
@@ -19,6 +19,7 @@ function App() {
         </a>
         </p>
         <p>I care about creating technology that serves both the user and the planet.</p>
+        <p>I believe in simplicity, and data-driven decisionmaking.</p>
         <p>
           You can find me on <a
           className="App-link"
@@ -28,11 +29,7 @@ function App() {
           className="App-link"
           href="https://github.com/arews/portfolio"
           rel="noopener noreferrer"> Github,
-          </a> occasionally on <a
-          className="App-link"
-          href="https://twitter.com/AreSandvik"
-          rel="noopener noreferrer"
-        > Twitter,</a> and as an active participant in the Norwegian community for Product Managers, <a
+          </a> and as an active participant in the Norwegian community for Product Managers, <a
           className="App-link"
           href="https://produktleder.no"
           rel="noopener noreferrer"
@@ -61,6 +58,37 @@ function App() {
           rel="noopener noreferrer"
         > Written articles about tech and society (that were published in Norwegian national newspapers)
         </a> </li>
+          </ul>
+        </p>
+
+        <p>
+          As a consultant at Netlife, I was part of the teams that created:
+          <ul>
+            <li><a
+             className="App-link"
+             href="https://www.nbim.no/no/oljefondet/investeringene/#/"
+             rel="noopener noreferrer"
+             > New services for Norges Bank Investment Management
+            </a></li>
+            <li><a
+             className="App-link"
+             href="https://www.marfo.no/en/"
+             rel="noopener noreferrer"
+             > New services for Norwegian Centre against Marine Litter
+            </a></li>
+            <li><a
+            className="App-link"
+            href="https://www.environmentagency.no/"
+            rel="noopener noreferrer"
+            > New services for the Norwegian Environment Agency
+            </a></li>
+            <li><a
+            className="App-link"
+            href="https://byggelig.no"
+            rel="noopener noreferrer"
+            > Byggelig.no
+            </a></li>
+            <li>... among other things</li>
           </ul>
         </p>
         </div>
