@@ -18,7 +18,8 @@ function App() {
           ShiftX.
         </a>
         </p>
-        <p>I care about creating technology that serves both the user and the planet.<br/>
+        <p>I care about creating technology that serves both the user and the planet.</p>
+        <p>
           You can find me on <a
           className="App-link"
           href="https://www.linkedin.com/in/aresan/"
@@ -31,18 +32,36 @@ function App() {
           className="App-link"
           href="https://twitter.com/AreSandvik"
           rel="noopener noreferrer"
-        > Twitter,</a> on <a
-          className="App-link"
-          href="https://are-w-sandvik.medium.com/"
-          rel="noopener noreferrer"
-        > Medium,
-        </a> 
-          and as an active participant in the Norwegian community for Product Managers, <a
+        > Twitter,</a> and as an active participant in the Norwegian community for Product Managers, <a
           className="App-link"
           href="https://produktleder.no"
           rel="noopener noreferrer"
-        > Produktleder.no,
+        > Produktleder.no.
         </a> 
+        </p>
+        <p>
+          Recently, I've:
+          <ul>
+            <li><a
+             className="App-link"
+             href="https://www.youtube.com/watch?v=YKRKsoqCmAI"
+             rel="noopener noreferrer"
+             > Hosted talks (in Norwegian)
+            </a></li>
+            <li><a
+             className="App-link"
+             href="https://www.youtube.com/watch?v=6gG5QyPxQmM"
+             rel="noopener noreferrer"
+             > Hosted webinars (in English)
+            </a></li>
+            <li>
+              <a
+          className="App-link"
+          href="https://are-w-sandvik.medium.com/"
+          rel="noopener noreferrer"
+        > Written articles about tech and society (that also got published in Norwegian National newspapers)
+        </a> </li>
+          </ul>
         </p>
         </div>
       </header>
