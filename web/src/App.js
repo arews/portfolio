@@ -56,7 +56,7 @@ function App() {
           className="App-link"
           href="https://are-w-sandvik.medium.com/"
           rel="noopener noreferrer"
-        > Written articles about tech and society (that were published in Norwegian national newspapers)
+        > Written articles about tech and society
         </a> </li>
           </ul>
         </p>
