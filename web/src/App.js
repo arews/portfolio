@@ -12,7 +12,7 @@ function App() {
         <p>
           I'm currently a Product Manager at,        <a
           className="App-link"
-          href="https://dn.no"
+          href="https://www.dngroup.com/"
           rel="noopener noreferrer"
         >
           DN Media Group.
