@@ -7,16 +7,21 @@ function App() {
         <div>
         <p className="name">Are W. Sandvik,<br/>Oslo, Norway</p>
         <p>
-          I'm a Project Manager with experience in Product, Project and Process Management, Frontend Development, and UX, Service, and Content Design.
+          I'm a Product Manager with experience from in UX and Content Design, and Frontend Development.
         </p>
         <p>
-          I'm currently a Project Manager at the biggest Norwegian business publication,        <a
+          I'm currently a Product Manager at,        <a
           className="App-link"
           href="https://dn.no"
           rel="noopener noreferrer"
         >
-          Dagens Næringsliv (DN).
-        </a>
+          DN Media Group.
+        </a> and Product Owner at 
+        <a
+          className="App-link"
+          href="https://www.norkon.net/"
+          rel="noopener noreferrer"
+        >Norkon.</a>
         </p>
         <p>I care about creating products and services that serve both the user and the planet.</p>
         <p>I believe in simplicity, and data-driven decisionmaking.</p>
@@ -41,9 +46,15 @@ function App() {
           <ul>
           <li><a
              className="App-link"
+             href="https://www.dn.no/investor/"
+             rel="noopener noreferrer"
+             > Worked as a the Product Manager of DN Investor
+            </a></li>
+          <li><a
+             className="App-link"
              href="https://www.shiftx.com"
              rel="noopener noreferrer"
-             > Worked as a Product Manager for the Norwegian SaaS ShiftX
+             > Worked as a Product Manager for the Norwegian (now acquired) SaaS ShiftX
             </a></li>
             <li><a
              className="App-link"
